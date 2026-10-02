@@ -1,6 +1,5 @@
 # Using agent-based models to simulate EV driving behaviours in Great Britain. 
 
-### Authors: Zixin Feng, Qunshan Zhao, Alison Heppenstall 
 
 ## Introduction
 
